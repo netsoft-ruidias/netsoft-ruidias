@@ -3,7 +3,7 @@
 ## Home Assistant
 
 **Home Assistant Custom Components** (open source projects)
-* [DGEG - Preços dos Combustíveis](https://github.com/netsoft-ruidias/ha-custom-component-precoscombustiveis)
+* [DGEG - Preços dos Combustíveis](https://github.com/netsoft-ruidias/ha-custom-component-precoscombustiveis) (gas prices in portugal)
 * [MyEdenred - meal card](https://github.com/netsoft-ruidias/ha-custom-component-myedenred)
 * [Sodexo - meal card](https://github.com/netsoft-ruidias/ha-custom-component-sodexo)
 
