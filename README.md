@@ -6,7 +6,6 @@
 * [DGEG - Preços dos Combustíveis](https://github.com/netsoft-ruidias/ha-custom-component-precoscombustiveis)
 * [MyEdenred - meal card](https://github.com/netsoft-ruidias/ha-custom-component-myedenred)
 * [Sodexo - meal card](https://github.com/netsoft-ruidias/ha-custom-component-sodexo)
-* [worldtides.info](https://github.com/netsoft-ruidias/ha-custom-component-worldtides)
 
 # ReactJS Projects
 * [Hooks](https://github.com/netsoft-ruidias/netsoft-hooks) - A collection of useful hooks that can be used to speed up front-end application development.
