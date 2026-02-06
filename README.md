@@ -4,15 +4,15 @@
 
 **Home Assistant Custom Components** (open source projects)
 * [DGEG - Preços dos Combustíveis](https://github.com/netsoft-ruidias/ha-custom-component-precoscombustiveis) (gas prices in portugal)
-* [MyEdenred - meal card](https://github.com/netsoft-ruidias/ha-custom-component-myedenred)
-* [Sodexo - meal card](https://github.com/netsoft-ruidias/ha-custom-component-sodexo)
-* [Coverflex Benefits](https://github.com/netsoft-ruidias/ha-custom-component-coverflex)
+* [MyEdenred - meal card](https://github.com/netsoft-ruidias/ha-custom-component-myedenred) Public archive
+* [Sodexo - meal card](https://github.com/netsoft-ruidias/ha-custom-component-sodexo) Public archive
+* [Coverflex Benefits](https://github.com/netsoft-ruidias/ha-custom-component-coverflex) Public archive
 
-# ReactJS Projects
+# ReactJS Projects (not actively maintained)
 * [Hooks](https://github.com/netsoft-ruidias/netsoft-hooks) - A collection of useful hooks that can be used to speed up front-end application development.
 * [Firebase](https://github.com/netsoft-ruidias/netsoft-firebase) - A collection of React Hooks for Firebase v9.
 
-# .NetCore Projects
+# .NetCore Projects (old, legacy projects)
 * [API Client v3.0](https://github.com/netsoft-ruidias/api-client-3.0) - Common HTTP interfaces for API "client side" support
 * [Netsoft Glaucus](https://github.com/netsoft-ruidias/glaucus) - Open source ASP.NET Core ORM, it allows programs written in C#, Visual Basic, F# to access several database servers, using their native Data Providers.
 
