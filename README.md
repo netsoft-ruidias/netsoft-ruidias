@@ -4,9 +4,9 @@
 
 **Home Assistant Custom Components** (open source projects)
 * [DGEG - Preços dos Combustíveis](https://github.com/netsoft-ruidias/ha-custom-component-precoscombustiveis) (gas prices in portugal)
-* [MyEdenred - meal card](https://github.com/netsoft-ruidias/ha-custom-component-myedenred) Public archive
+* [MyEdenred - meal card-](https://github.com/netsoft-ruidias/ha-custom-component-myedenred) Public archive
 * [Sodexo - meal card](https://github.com/netsoft-ruidias/ha-custom-component-sodexo) Public archive
-* [Coverflex Benefits](https://github.com/netsoft-ruidias/ha-custom-component-coverflex) Public archive
+* [Coverflex Benefits](https://github.com/netsoft-ruidias/ha-custom-component-coverflex) v2
 
 # ReactJS Projects (not actively maintained)
 * [Hooks](https://github.com/netsoft-ruidias/netsoft-hooks) - A collection of useful hooks that can be used to speed up front-end application development.
